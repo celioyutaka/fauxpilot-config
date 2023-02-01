@@ -21,3 +21,8 @@ Disable **Use the WSL 2 based engine**
 
 Enable **Use the WSL 2 based engine**
 **Apply & Restart**
+
+
+WSL-Ubuntu
+cd fauxpilot
+./launch.sh
