@@ -15,14 +15,23 @@ https://learn.microsoft.com/en-us/windows/ai/directml/gpu-cuda-in-wsl
 
 
 ## Running
-Windows -> Docker Desktop -> Settings -> General
+### Windows
+Open Docker Desktop -> Settings -> General
+
 Disable **Use the WSL 2 based engine**
+
 **Apply & Restart**
 
 Enable **Use the WSL 2 based engine**
+
 **Apply & Restart**
 
+.
+.
+.
 
-WSL-Ubuntu
+### WSL-Ubuntu
+
 cd fauxpilot
+
 ./launch.sh
