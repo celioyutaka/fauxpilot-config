@@ -12,6 +12,7 @@ Using GitLab Workflow 3.57.1
 
 Config cuda in wsl2, docker
 https://learn.microsoft.com/en-us/windows/ai/directml/gpu-cuda-in-wsl
+https://docs.nvidia.com/cuda/wsl-user-guide/index.html#getting-started-with-cuda-on-wsl
 
 
 ## Running
